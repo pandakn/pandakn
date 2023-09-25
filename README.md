@@ -20,12 +20,14 @@
  - *Frontend 🎨*
 	 - ReactJS
 	 - NextJS
+ 	 - Svelte 
 	 - Tailwind | Daisyui | Shadcn/ui | Radix | MUI
 	 
  - *Backend 👀*
 	 - NodeJS | ExpressJS
 	 - Go | Gofiber
-	 - tRPC
+	 - tRPC (typescript e2e typesafe)
+ 	 - MongoDB | PostgresSQL | Prisma (orm)  
 
 - *Tools ⚙️*
 	 - Docker🐳
