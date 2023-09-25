@@ -9,6 +9,27 @@
 
 ⚡️ Fun fact "Avoid light theme, might cuz bugs! 🤣"
 
+## Tech Stack 🛠
+	
+
+ - *Programming Lang ✨*
+	 - Javascript
+	 - Typescript
+	 - Go
+
+ - *Frontend 🎨*
+	 - ReactJS
+	 - NextJS
+	 - Tailwind | Daisyui | Shadcn/ui | Radix | MUI
+	 
+ - *Backend 👀*
+	 - NodeJS | ExpressJS
+	 - Go | Gofiber
+	 - tRPC
+
+- *Tools ⚙️*
+	 - Docker🐳
+
 <div>
 <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandakn&layout=compact&theme=dark" alt="pandakn" /> -->
 <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pandakn&show_icons=true&theme=dark&locale=en" alt="pandakn" /> -->
