@@ -7,8 +7,6 @@
 
 📫 How to reach me natthawut.klangyod@gmail.com
 
-⚡️ Fun fact "Avoid light theme, might cuz bugs! 🤣"
-
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/UPqYp2tj61XlBhlPbH/200w.webp?cid=ecf05e47oy3wm1xbkpjxa149swqbv0tvc4ar5xye2t0wp9z6&ep=v1_gifs_search&rid=200w.webp&ct=g" width="500"/>
 </div>
