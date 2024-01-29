@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Pandakn</h1>
 
 
-🧠 I'm currently learning Svelte, tRPC, Docker, Go Hexagonal Architecture
+🧠 I'm currently learning Svelte, tRPC, Docker, Go Hexagonal Architecture, Spring boot
 
 👀 Currently, I’m interested in DevOps, Microservices, Clean Architecture, tRPC, Cloud Computing
 
@@ -20,6 +20,7 @@
 	 - Javascript
 	 - Typescript
 	 - Go
+ 	- Java (I wanna cry 😿)
 
  - *Frontend 🎨*
 	 - ReactJS
@@ -30,6 +31,7 @@
  - *Backend 👀*
 	 - NodeJS | ExpressJS
 	 - Go | Gofiber
+	 - Spring Boot (I wanna best practice so bad 🥲)
 	 - tRPC (typescript e2e typesafe)
  	 - MongoDB | PostgresSQL | Prisma (orm)  
 
