@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Pandakn</h1>
 
 
-🧠 I'm currently learning Svelte, tRPC, Docker, Go Hexagonal Architecture, Spring boot
+🧠 I'm currently learning Svelte, tRPC, Docker, Go Hexagonal Architecture, Spring boot, TDD
 
-👀 Currently, I’m interested in DevOps, Microservices, Clean Architecture, tRPC, Cloud Computing
+👀 Currently, I’m interested in DevOps, Microservices, Clean Architecture, tRPC, Cloud Computing, TDD, DDD
 
 📫 How to reach me natthawut.klangyod@gmail.com
 
