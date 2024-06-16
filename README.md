@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Pandakn</h1>
 
 
-🧠 I'm currently learning tRPC, Go Hex Arch, Spring boot, TDD, Rust, Cloud computing
+🧠 I'm currently learning tRPC, Go Hex Arch, Spring boot, TDD, Rust, Cloud computing, K8s
 
 👀 Currently, I’m interested in DevOps, Microservices, Clean Architecture, tRPC, Cloud Computing, TDD, DDD
 
