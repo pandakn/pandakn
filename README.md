@@ -37,6 +37,7 @@
 
 - *Tools ⚙️*
 	 - Docker🐳
+	 - Kubernetes (K8s) ⚓️
 
 <div>
 <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandakn&layout=compact&theme=dark" alt="pandakn" /> -->
