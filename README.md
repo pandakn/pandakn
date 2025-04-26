@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Pandakn</h1>
 
 
-🧠 I'm currently learning tRPC, Go Hex Arch, Spring boot, TDD, Rust, Cloud computing, K8s, IaC
+🧠 I'm currently learning tRPC, Go Hex Arch, TDD, Rust, Cloud computing, K8s, IaC
 
 👀 Currently, I’m interested in DevOps, Microservices, Clean Architecture, tRPC, Cloud Computing, TDD, DDD
 
@@ -21,6 +21,7 @@
 	 - Typescript
 	 - Go
  	- Java (I wanna cry 😿)
+  	- Rust 🦀 (newbie)
 
  - *Frontend 🎨*
 	 - ReactJS
@@ -33,7 +34,8 @@
 	 - Go | Gofiber
 	 - Spring Boot (I wanna best practice so bad 🥲)
 	 - tRPC (typescript e2e typesafe)
- 	 - MongoDB | PostgresSQL | Prisma (orm)  
+ 	 - MongoDB | PostgresSQL | Prisma (orm)
+   - Axum 🦀
 
 - *Tools ⚙️*
 	 - Docker🐳
