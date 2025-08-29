@@ -8,7 +8,7 @@
 📫 How to reach me natthawut.klangyod@gmail.com
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/UPqYp2tj61XlBhlPbH/200w.webp?cid=ecf05e47oy3wm1xbkpjxa149swqbv0tvc4ar5xye2t0wp9z6&ep=v1_gifs_search&rid=200w.webp&ct=g" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRxYmY0OGd5ejBhYmZtNzNvc2xsa3ZkanNpYWw3OTlxcGRsZzc3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vzO0Vc8b2VBLi/giphy.gif" width="500"/>
 </div>
 
 
